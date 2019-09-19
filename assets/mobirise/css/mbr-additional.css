@@ -2098,73 +2098,6 @@ body {
 .cid-rCsMMN7qor .content-slider-wrap {
   width: 74%;
 }
-.cid-rCsQ0wi2rT {
-  padding-top: 105px;
-  padding-bottom: 0px;
-  background-image: url("../../../assets/images/logos-500x155.jpg");
-}
-.cid-rCwwnImOrj {
-  padding-top: 0px;
-  padding-bottom: 0px;
-  background-color: #ffffff;
-}
-.cid-rCwwnImOrj .mbr-slider .carousel-control {
-  background: #1b1b1b;
-}
-.cid-rCwwnImOrj .mbr-slider .carousel-control-prev {
-  left: 0;
-  margin-left: 2.5rem;
-}
-.cid-rCwwnImOrj .mbr-slider .carousel-control-next {
-  right: 0;
-  margin-right: 2.5rem;
-}
-.cid-rCwwnImOrj .mbr-slider .modal-body .close {
-  background: #1b1b1b;
-}
-.cid-rCwwnImOrj .mbr-gallery-item > div::before {
-  content: '';
-  position: absolute;
-  left: 0;
-  top: 0;
-  width: 100%;
-  height: 100%;
-  background: #554346;
-  opacity: 0;
-  -webkit-transition: 0.2s opacity ease-in-out;
-  transition: 0.2s opacity ease-in-out;
-  background: linear-gradient(to left, #554346, #45505b) !important;
-}
-.cid-rCwwnImOrj .mbr-gallery-item > div:hover .mbr-gallery-title::before {
-  background: transparent !important;
-}
-.cid-rCwwnImOrj .mbr-gallery-item > div:hover:before {
-  opacity: 0.7 !important;
-}
-.cid-rCwwnImOrj .mbr-gallery-title {
-  font-size: .9em;
-  position: absolute;
-  display: block;
-  width: 100%;
-  bottom: 0;
-  padding: 1rem;
-  color: #fff;
-  z-index: 2;
-}
-.cid-rCwwnImOrj .mbr-gallery-title:before {
-  content: " ";
-  width: 100%;
-  height: 100%;
-  top: 0;
-  left: 0;
-  z-index: -1;
-  position: absolute;
-  background: #554346 !important;
-  opacity: 0.7;
-  -webkit-transition: 0.2s background ease-in-out;
-  transition: 0.2s background ease-in-out;
-  background: linear-gradient(to left, #554346, #45505b) !important;
-}
 .cid-rCt4223Vqv {
   padding-top: 45px;
   padding-bottom: 0px;
@@ -2586,8 +2519,13 @@ body {
 }
 .cid-rCsPVlVdmn {
   padding-top: 0px;
-  padding-bottom: 15px;
+  padding-bottom: 75px;
   background-color: #ffffff;
+}
+.cid-rCwxr8Lw8v {
+  padding-top: 0px;
+  padding-bottom: 105px;
+  background-image: url("../../../assets/images/logos-500x155.jpg");
 }
 .cid-rCsZilUTAW {
   padding-top: 60px;
